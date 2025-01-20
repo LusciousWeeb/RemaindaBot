@@ -1,0 +1,11 @@
+Assignments,Courses
+Homework 1,Calculus I
+Lab Report 2,General Chemistry
+Project 1,Introduction to Programming
+Midterm Review,Physics I
+Final Exam Study Guide,Biology
+Group Presentation,Business Communication
+Case Study Analysis,Economics
+Design Project,Biomedical Engineering
+Thermodynamics Problem Set,Thermodynamics
+Circuit Analysis Homework,Electric Circuits
